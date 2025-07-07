@@ -355,10 +355,12 @@ color: #c10117 !important;
       color: #c10117;
       font-size: 1.6rem;
       margin-bottom: 14px;
+      text-align: center;
     }
     .banner-content h3{
       font-size: 2rem;
       line-height: 1.6;
+      text-align: center;
     }
     .cart{
       width: 60px;
