@@ -332,13 +332,13 @@ color: #c10117 !important;
       padding: 20px;
       border-radius: 10px;
       max-width: 400px;
-      margin-right: 30px;
+      margin-right: 0px;
       margin-left: auto;
     }
 
     .second-banner .banner-content{
-       margin-right: auto;
-      margin-left: 30px;
+      margin-right: auto;
+      margin-left: 0px;
     }
 
     .btn-custom {
