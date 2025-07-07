@@ -589,6 +589,8 @@ border: 1px solid #c10117;
   color:#c10117;
   border: 1px solid #c10117;
   padding: 10px 15px;
+  display: flex;justify-content: center;
+  align-items: center;
 }
 .navbar-toggler:focus{
   outline: none;
